@@ -3,7 +3,7 @@
     
 Es ist sicherlich wünschenswert, für die Weichensteuerung einen Antrieb einsetzen zu können, der die Weiche langsam umstellt und unter der Weiche eingebaut werden kann, ohne große Löcher in Weichenauflage sägen zu müssen. Dafür wird ein sehr kleines und flaches Servo mit Linearantrieb benötigt.
 Auf dem Markt findet man dazu keine große Auswahl. Ich habe mir das Servo VS-19 Pico Linear Servo ausgesucht, das von der Firma Robotshop angeboten wird.  
-![VS-19](/Bilder/Bild04.png)
+![Github VS-19](/Bilder/Bild04.png)
 Zusammen mit der  
 Bevor wir uns mit den Kameras auf einem Niederbordwagen beschäftigen, will ich ein paar Hinweise geben, wie die Halterungen für die Kameras mit Hilfe eines 3D-Druckers entstanden sind.
 Als erste Aufgabe ist die Frage zu klären, welche Entwurfssoftware will ich einsetzen. Ich habe mich für TinkerCAD entschieden und das aus diversen Gründen. Mit dessen schlichtem Klötzchenkonzept gelingt ein Design auch einem nicht sehr Geübten recht schnell. Somit ist es leicht bedienbar, im Browser sowie auf einer App unter iOS verfügbar und zudem ist es kostenlos. Sicherlich ist die Auswahl auch eine Geschmacksfrage, aber ich bin mit diesem Werkzeug sehr zufrieden. Beim Entwurf einer Halterung oder irgendeinem anderen Objekt ist es sehr wichtig zu bedenken, dass man in einem dreidimensionalen Raum arbeitet, bei dem Überhänge an Objekten nur sehr begrenzt möglich sind. Denn der Drucker kann sein flüssiges Filament natürlich nicht freischwebend platzieren, sondern er möchte es möglichst nur stapeln. Dabei führen in vielen Fällen einfache Lageveränderungen des Objektes zum Ziel. Was eben noch in der Luft schwebte, liegt durch eine 90 Grad-Drehung des Objekts plötzlich auf dem Tisch des Druckers auf.
