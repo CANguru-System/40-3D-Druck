@@ -14,5 +14,9 @@ Und so in TinkerCAD:
 ![TinkerCAD](https://github.com/CANguru-System/80-3D-Druck/blob/master/Bilder/Bild02.PNG)  
 Unter der Weiche sieht man die eingebaute Halterung mit dem Servo:  
 ![Linear Servo VS-19 Pico](https://github.com/CANguru-System/80-3D-Druck/blob/master/Bilder/Bild03.PNG)   
+Hier noch mal die Erklärung der Parameter, die mit dem CANguru-Server eingestellt werden können:  
+![Linear Servo VS-19 Pico](https://github.com/CANguru-System/80-3D-Druck/blob/master/Bilder/Bild04.PNG)   
+Hier die Weiche kurz vor dem Einbau. Die Stromversorgung für die LED wird von der Servoversorgung abgenommen. Das sind dann nur 3,3 Volt und die LED hat auch keine große Strahlkraft; aber sie leuchtet und wieder ein paar Kabel weniger!  
+![Linear Servo VS-19 Pico](https://github.com/CANguru-System/80-3D-Druck/blob/master/Bilder/Bild05.PNG)   
 Diese Halterung passt für alle Märklin C-Gleis geraden Weichen, Bogenweichen sowie Doppelkreuzungsweichen.  
 Viel Spaß damit!  
