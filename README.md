@@ -19,6 +19,6 @@ Und hier nur das Servo:
 Hier noch mal die Erklärung der Parameter, die mit dem CANguru-Server eingestellt werden können:  
 ![Parameter fuer das Linear Servo](https://github.com/CANguru-System/80-3D-Druck/blob/master/Bilder/Bild05.PNG)   
 Hier die Weiche kurz vor dem Einbau. Die Stromversorgung für die LED wird von der Servoversorgung abgenommen. Das sind dann nur 3,3 Volt und die LED hat auch keine große Strahlkraft; aber sie leuchtet und wieder ein paar Kabel weniger!  
-![Anschluesse an das Linear Servo](https://github.com/CANguru-System/80-3D-Druck/blob/master/Bilder/Bild06.PNG)   
+![Anschluesse an das Linear Servo](https://github.com/CANguru-System/80-3D-Druck/blob/master/Bilder/Bild06.JPG)   
 Diese Halterung passt für alle Märklin C-Gleis geraden Weichen, Bogenweichen sowie Doppelkreuzungsweichen.  
 Viel Spaß damit!  
